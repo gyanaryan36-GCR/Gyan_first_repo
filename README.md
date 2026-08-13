@@ -19,6 +19,11 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
+  <br/><br/>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=gyanaryan36-GCR&color=8a2be2&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 </div>
 
 <hr />
@@ -71,7 +76,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanaryan36-GCR&theme=dark&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" alt="Gyan's GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=gyanaryan36-GCR&theme=dark&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" alt="Gyan's GitHub Streak" width="97%" />
 </div>
 
 <hr />
